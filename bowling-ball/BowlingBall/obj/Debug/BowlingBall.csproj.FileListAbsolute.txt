@@ -1,0 +1,16 @@
+C:\Users\piyush.yadav\Desktop\Tavisca\bowling-ball\BowlingBall\bin\Debug\BowlingBall.dll
+C:\Users\piyush.yadav\Desktop\Tavisca\bowling-ball\BowlingBall\bin\Debug\BowlingBall.pdb
+C:\Users\piyush.yadav\Desktop\Tavisca\bowling-ball\BowlingBall\obj\Debug\BowlingBall.dll
+C:\Users\piyush.yadav\Desktop\Tavisca\bowling-ball\BowlingBall\obj\Debug\BowlingBall.pdb
+C:\Users\ypadav\source\repos\BowlingBallSolution\bowling-ball\BowlingBall\bin\Debug\BowlingBall.dll
+C:\Users\ypadav\source\repos\BowlingBallSolution\bowling-ball\BowlingBall\bin\Debug\BowlingBall.pdb
+C:\Users\ypadav\source\repos\BowlingBallSolution\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csprojAssemblyReference.cache
+C:\Users\ypadav\source\repos\BowlingBallSolution\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csproj.CoreCompileInputs.cache
+C:\Users\ypadav\source\repos\BowlingBallSolution\bowling-ball\BowlingBall\obj\Debug\BowlingBall.dll
+C:\Users\ypadav\source\repos\BowlingBallSolution\bowling-ball\BowlingBall\obj\Debug\BowlingBall.pdb
+C:\Users\ypadav\source\repos\PY\BowlingBallSolution\bowling-ball\BowlingBall\bin\Debug\BowlingBall.dll
+C:\Users\ypadav\source\repos\PY\BowlingBallSolution\bowling-ball\BowlingBall\bin\Debug\BowlingBall.pdb
+C:\Users\ypadav\source\repos\PY\BowlingBallSolution\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csprojAssemblyReference.cache
+C:\Users\ypadav\source\repos\PY\BowlingBallSolution\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csproj.CoreCompileInputs.cache
+C:\Users\ypadav\source\repos\PY\BowlingBallSolution\bowling-ball\BowlingBall\obj\Debug\BowlingBall.dll
+C:\Users\ypadav\source\repos\PY\BowlingBallSolution\bowling-ball\BowlingBall\obj\Debug\BowlingBall.pdb
